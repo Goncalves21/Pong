@@ -1,2 +1,0 @@
-# Pong
-jogo da bolinha
